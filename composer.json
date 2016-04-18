@@ -16,7 +16,7 @@
     "require": {
         "php": ">=5.3.9",
         "symfony/framework-bundle": "~2.1",
-        "erusev/parsedown": "1.0.*"
+        "erusev/parsedown": "~1.6.0"
     },
 
     "suggest": {
